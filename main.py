@@ -3,6 +3,7 @@ import modules.webserver_data as webserver_data
 import modules.browser_sim as browser_sim
 import json
 import time
+import os
 import sys
 
 df = pd.read_parquet('data/example1.parquet')
@@ -95,6 +96,7 @@ for entry in DATA_TABLE:
         }
     )
 
+os.makedirs("output", exist_ok=True)
 with open('output/output.json', 'w') as f:
     json.dump(FINAL_DATA, f, indent=4)
 
