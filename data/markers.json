@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Shopify",
+        "markers": ["shopify.com", "cdn.shopify.com", "shop_id"],
+        "proof": "Found Shopify-specific scripts or CDN references."
+    },
+    {
+        "name": "Squarespace",
+        "markers": ["squarespace.com", "squarespace-cdn.com"],
+        "proof": "Detected Squarespace-specific scripts or CDN references."
+    },
+    {
+        "name": "Wix",
+        "markers": ["wix.com", "static.wixstatic.com"],
+        "proof": "Found Wix-specific scripts or CDN references."
+    },
+    {
+        "name": "WordPress",
+        "markers": ["wp-content", "wp-includes", "wordpress.org"],
+        "proof": "Found standard WordPress directory structures."
+    },
+    {
+        "name": "React",
+        "markers": ["react-dom", "react-dom/hydrate"],
+        "proof": "Detected React internal libraries in script tags."
+    },
+    {
+        "name": "jQuery",
+        "markers": ["jquery.js", "jquery.min.js", "$()"],
+        "proof": "Found jQuery library inclusion."
+    },
+    {
+        "name": "Google Analytics",
+        "markers": ["gtag.js", "google-analytics.com"],
+        "proof": "Detected Google Analytics tracking codes."
+    },
+    {
+        "name": "Bootstrap",
+        "markers": ["bootstrap.min.css", "bootstrap.min.js"],
+        "proof": "Found Bootstrap CSS or JS files."
+    },
+    {
+        "name": "Vue.js",
+        "markers": ["vue.js", "vue.min.js"],
+        "proof": "Detected Vue.js library inclusion."
+    },
+    {
+        "name": "Angular",
+        "markers": ["angular.js", "angular.min.js"],
+        "proof": "Found AngularJS library inclusion."
+    },
+    {
+        "name": "Django",
+        "markers": ["csrftoken", "sessionid"],
+        "proof": "Detected Django-specific cookies."
+    },
+    {
+        "name": "Flask",
+        "markers": ["flask_session", "flask"],
+        "proof": "Detected Flask-specific cookies or headers."
+    },
+    {
+        "name": "ASP.NET",
+        "markers": ["__VIEWSTATE", "__EVENTVALIDATION"],
+        "proof": "Found ASP.NET specific hidden fields."
+    },
+    {
+        "name": "PHP",
+        "markers": ["PHPSESSID", ".php"],
+        "proof": "Detected PHP session cookies or .php file references."
+    },
+    {
+        "name": "Ruby on Rails",
+        "markers": ["_rails_session", "csrf-token"],
+        "proof": "Detected Rails-specific session cookies or CSRF tokens."
+    },
+    {
+        "name": "Demandware",
+        "markers": ["demandware", "dw.com", "demandware.static", "dwac"],
+        "proof": "Found Demandware-specific scripts or references."
+    },
+    {
+        "name": "Re-captcha",
+        "markers": ["www.google.com/recaptcha", "g-recaptcha", "recaptcha", "recaptcha/api.js"],
+        "proof": "Detected Google reCAPTCHA scripts or elements."
+    }
+]
