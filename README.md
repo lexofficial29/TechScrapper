@@ -11,9 +11,11 @@ TechScrapper is scanning tool designed for gathering information about the techn
 Enter the  folder
 ```cd TechScrapper```
 
-2. Create the environment
+2. Create the environment and load it
 
 ```python3 -m venv ./venv```
+
+```source venv/bin/activate```
 
 3. Install the dependencies
 
