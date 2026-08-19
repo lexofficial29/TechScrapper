@@ -39,4 +39,4 @@ Output will be saved automatically in output/output.json
 
 ## Results
 
-![Results image](https://i.imgur.com/bUshkjh.png).
+![Results image](https://i.imgur.com/bUshkjh.png)
