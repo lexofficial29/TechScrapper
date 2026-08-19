@@ -19,11 +19,15 @@ Enter the  folder
 
 ```pip install -r requirements.txt ```
 
-4. Modify dataframe with your desired parquet file in main.py
+4. Install Playwright deps
+
+```playwright install```
+
+5. Modify dataframe with your desired parquet file in main.py
 
 ```df = pd.read_parquet('data/example1.parquet')``` <--- modify here or leave as is for testing
 
-5. Run the project
+6. Run the project
 
 ```python3 main.py```
 
