@@ -1,0 +1,3028 @@
+[
+    {
+        "url": "jcmobilecigars.com",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            }
+        ]
+    },
+    {
+        "url": "somalidisablesupport.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "yourfamilylines.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            }
+        ]
+    },
+    {
+        "url": "szentkristofudvarhaz.hu",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "disneystore.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            }
+        ]
+    },
+    {
+        "url": "chavchavadze-m2-41-tbilisi.booked.net",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "trs-energycontrol.de",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "xn--kleoghvidevareservice-qfc.dk",
+        "webserver_tech": "nginx/1.29.1",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "gogroupauto.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "231selfstorage.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "globalrn.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "cytofastmed.com",
+        "webserver_tech": "ArvanCloud",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "5starremoval.weebly.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "coenzwezerijnen.nu",
+        "webserver_tech": "Apache/2",
+        "technologies": []
+    },
+    {
+        "url": "gutendorf.ru",
+        "webserver_tech": "nginx/1.30.4",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "katesworldtravel.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "3xd.co.uk",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "gapconstructionwi.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "imgs.co.jp",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "clotting-guide.online",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "38inspect.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "newbeaverborough.org",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "largsbaychiropractic.com.au",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "rsthealthcare.com",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/7.4.33",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            }
+        ]
+    },
+    {
+        "url": "dioxoxigenio.com.br",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "doringpoort.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "fsbwyoming.com",
+        "webserver_tech": "AkamaiGHost",
+        "technologies": []
+    },
+    {
+        "url": "msc-manching.de",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "sgsextremaratio.it",
+        "webserver_tech": "nginx/1.18.0 (Ubuntu)",
+        "technologies": [
+            {
+                "tech": "Nuxt",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the content."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            }
+        ]
+    },
+    {
+        "url": "coastwidemechanicalcentralcoast.com.au",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/8.4.23",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "amourfinder.com",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "lojatatical.com.br",
+        "webserver_tech": "gocache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "jobresourcecentre.com",
+        "webserver_tech": "Flywheel/5.1.0",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "ferienwohnung-kastell.de",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "253media.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the content."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "velvety.eu",
+        "webserver_tech": "Unknown",
+        "technologies": [
+            {
+                "tech": "elephants5.com - New Century Marketing",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "doortodoororganics.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "kentpropertyrenovations.co.uk",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the content."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "fisherinvestments.com",
+        "webserver_tech": "AkamaiGHost",
+        "technologies": []
+    },
+    {
+        "url": "rionecontrastanga.net",
+        "webserver_tech": "Unknown",
+        "technologies": [
+            {
+                "tech": "PHP/7.4.33",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "stwannas.com",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "empresasori.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/8.0.30",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "familybroker.cz",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "genesisny.net",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "5w.design",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "huberautomotive.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "marien-apotheke-grefrath-app.de",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "centreconsiliereavort.ro",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/7.4.33",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "infoaboutnetwork.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "11853prospecthill.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Luxury Presence",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "passwordstore.it",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "avocatalinamanciu.ro",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "abcdpinturas.com.br",
+        "webserver_tech": "Apache",
+        "technologies": []
+    },
+    {
+        "url": "dssfla.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "weducars.co.za",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "4stonebuildings.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "maniaupiekszania.pl",
+        "webserver_tech": "Apache/2",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "sprucemeadowsmd.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/8.3.32",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "natedea.co.uk",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "loizillon.com",
+        "webserver_tech": "Unknown",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "haus-muehlenfeld-pommerby.de",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "arenaskolor.se",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "Seravo",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "boken.ch",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "restwellstreetmedicalcentre.com.au",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            }
+        ]
+    },
+    {
+        "url": "den-a-sha.co.jp",
+        "webserver_tech": "nginx",
+        "technologies": []
+    },
+    {
+        "url": "365outsource.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "PHP/8.2.30",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the content."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "aida-cruises.at",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "lets.gr",
+        "webserver_tech": "nginx",
+        "technologies": []
+    },
+    {
+        "url": "skywayrestaurants.net",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "2020wealthadvisory.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Elementor Cloud",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "hnafirm.com",
+        "webserver_tech": "nginx/1.18.0 (Ubuntu)",
+        "technologies": [
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the content."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            }
+        ]
+    },
+    {
+        "url": "itsolutions24.pl",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "aaice.net",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "ecolab.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "mehmetefendimacedonia.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "laplumedelisibilite.fr",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "PHP/8.2.33, PleskLin",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "2ldm.com",
+        "webserver_tech": "Sucuri/Cloudproxy",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "westchesterpointechiro.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "cei-expertises.fr",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/8.2.30",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "seringa-safaris.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Ruby on Rails",
+                "proof": "Detected Rails-specific session cookies or CSRF tokens."
+            }
+        ]
+    },
+    {
+        "url": "1planettechnologies.weebly.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "soziale-dreigliederung.de",
+        "webserver_tech": "openresty/1.25.3.2",
+        "technologies": []
+    },
+    {
+        "url": "premierhomeremodeling.net",
+        "webserver_tech": "nginx",
+        "technologies": []
+    },
+    {
+        "url": "bas-ingenieria.cl",
+        "webserver_tech": "Not detected",
+        "technologies": [
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "produkttheater.de",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "unnames.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the Set-Cookie header."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "handycars.com",
+        "webserver_tech": "nginx/1.28.1",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "antikebau.de",
+        "webserver_tech": "Apache",
+        "technologies": []
+    },
+    {
+        "url": "3strandschurch.org",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "alabamabuildingcontractor.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "PHP/8.3.33, PleskLin",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "resourceservicesolutions.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "skywardspeech.com.au",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "sevecoitalia.com",
+        "webserver_tech": "Microsoft-IIS/8.0",
+        "technologies": [
+            {
+                "tech": "ASP.NET",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            }
+        ]
+    },
+    {
+        "url": "nielsbirk.dk",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "branson-connection.com",
+        "webserver_tech": "Not detected",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "phucankhanggroup.com",
+        "webserver_tech": "Microsoft-IIS/10.0",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "roccofortehotels.cn",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "everhartsoutdoor.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "europeaninns.com",
+        "webserver_tech": "Apache/2",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "massageforworldpeace.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "cultivateventures.co.nz",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "amaronbattery.in",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/7.2.34",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "radxmobile.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "2-com.net",
+        "webserver_tech": "Unknown",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "3bsexcavating.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "weissbauchpapageien.de",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "959marine.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "hansis-knusperhendl-foodtruck.eatbu.com",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "broganlmt.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "juanmunozhomesmart.com",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "buchhaltungsservice-koenig.de",
+        "webserver_tech": "Apache/2.4.68 (Unix)",
+        "technologies": [
+            {
+                "tech": "PHP/8.4.24",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "solvos.nl",
+        "webserver_tech": "Prometheus",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "261welfarefund.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "costa-coffee.be",
+        "webserver_tech": "AkamaiNetStorage",
+        "technologies": []
+    },
+    {
+        "url": "startravelcompany.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "disinfestazioniepiscine.it",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "lscms.org",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "3dwealthadvisory.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "jackwills.com",
+        "webserver_tech": "Vercel",
+        "technologies": []
+    },
+    {
+        "url": "nevsproductions.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "kande-hoikuen.ed.jp",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "orifoodsco.com",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "deerfieldbeachautomall.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "insieme.stanford.edu",
+        "webserver_tech": "Unknown",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            }
+        ]
+    },
+    {
+        "url": "layer7innovations.ca",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            }
+        ]
+    },
+    {
+        "url": "makpharma-eg.com",
+        "webserver_tech": "DPS/2.0.0+sha-2b44a88",
+        "technologies": [
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "ejc-courtage-assurances.fr",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/8.1",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "ferrateoxidant.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "oakwell.vet",
+        "webserver_tech": "nginx-rc",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "mysterion.hr",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "howellmotors.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "lorenz-baumarkt.de",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Ruby on Rails",
+                "proof": "Detected Rails-specific session cookies or CSRF tokens."
+            }
+        ]
+    },
+    {
+        "url": "eclairage-solaire-occitanie.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            }
+        ]
+    },
+    {
+        "url": "cmc01village.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "maiquotes.net",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "cmresolutions.com",
+        "webserver_tech": "Apache",
+        "technologies": []
+    },
+    {
+        "url": "wglchurch.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "nwmotorinn.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "dorpsbelangen.nu",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/8.5.9",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "littlerockafamily.de",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "evelynanders.com",
+        "webserver_tech": "awselb/2.0",
+        "technologies": []
+    },
+    {
+        "url": "domekvefaru.com",
+        "webserver_tech": "webnode",
+        "technologies": [
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "sdmdjentertainment.com",
+        "webserver_tech": "DPS/2.0.0+sha-2b44a88",
+        "technologies": []
+    },
+    {
+        "url": "ideenhunger.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            }
+        ]
+    },
+    {
+        "url": "jenniferbacksteininteriors.com",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "elcolegiocongresosyrestaurante.com",
+        "webserver_tech": "nginx",
+        "technologies": []
+    },
+    {
+        "url": "northshoremacnut.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "powercleaning.services",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "stoperbis.pl",
+        "webserver_tech": "Apache/2",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "verticalcommunitychurch.com",
+        "webserver_tech": "Not detected",
+        "technologies": []
+    },
+    {
+        "url": "gitesducharmois.fr",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "allegrocreditbeta.com",
+        "webserver_tech": "CloudFront",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            }
+        ]
+    },
+    {
+        "url": "hoffmaninstitute.co.uk",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "a3sec.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "concrete-fitness.edan.io",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "nicholsonchiro.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "la-residenza-del-principe-rome-it.booked.net",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "jonesbuickgmc.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "Ruby on Rails",
+                "proof": "Detected Rails-specific session cookies or CSRF tokens."
+            }
+        ]
+    },
+    {
+        "url": "xn--jobvrkstedet-9cb.nu",
+        "webserver_tech": "Simply.com",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "appelpsychotherapy.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "brucebournesold.com",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "pcb-cpb.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "chiantifiorentino.it",
+        "webserver_tech": "Microsoft-IIS/10.0",
+        "technologies": [
+            {
+                "tech": "ASP.NET",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            }
+        ]
+    },
+    {
+        "url": "11thhourracing.org",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "miratrade.com.tr",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "freo.com.au",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            }
+        ]
+    },
+    {
+        "url": "fluxar.com.ar",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/8.1.34",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "redpants.jp",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "bata.edu.hu",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "3-energie-klaas.de",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "labdemo.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "1ststopsupply.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "celiabedilia.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "davidloeppke.com",
+        "webserver_tech": "openresty",
+        "technologies": [
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Ruby on Rails",
+                "proof": "Detected Rails-specific session cookies or CSRF tokens."
+            }
+        ]
+    },
+    {
+        "url": "wrinkle-pei.cz",
+        "webserver_tech": "nginx",
+        "technologies": []
+    },
+    {
+        "url": "koniczynka.info.pl",
+        "webserver_tech": "Apache/2",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Flask",
+                "proof": "Detected Flask-specific cookies or headers."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "footasylum.com",
+        "webserver_tech": "Microsoft-IIS/10.0",
+        "technologies": [
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "2agateway.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "ledestjernenstu.dk",
+        "webserver_tech": "Simply.com",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Found standard WordPress directory structures."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Bootstrap",
+                "proof": "Found Bootstrap CSS or JS files."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "1stlocksheathscouts.org.uk",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "tamcconstruction.net",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "abbikadabbisbakingco.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "herbalwise.ie",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "Shopify",
+                "proof": "Detected 'Shopify' in the Set-Cookie header."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "deepseass.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/8.2",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "aardvarkelectriccorp.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "needaphysio.com",
+        "webserver_tech": "Pepyaka",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "Wix",
+                "proof": "Found Wix-specific scripts or CDN references."
+            },
+            {
+                "tech": "React",
+                "proof": "Detected React internal libraries in script tags."
+            },
+            {
+                "tech": "Django",
+                "proof": "Detected Django-specific cookies."
+            }
+        ]
+    },
+    {
+        "url": "thomasrosenbaum.com",
+        "webserver_tech": "Squarespace",
+        "technologies": [
+            {
+                "tech": "Squarespace",
+                "proof": "Detected Squarespace-specific scripts or CDN references."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "100wwcstlw.org",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "shapirolawfirm.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP/7.3.33",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "joseph-herber.business.site",
+        "webserver_tech": "Unknown",
+        "technologies": []
+    },
+    {
+        "url": "arol.cl",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "sindacatobadanti.it",
+        "webserver_tech": "aruba-proxy",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "1stclairavewest.com",
+        "webserver_tech": "cloudflare",
+        "technologies": []
+    },
+    {
+        "url": "lighthouseprc.org",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "5rcircleprocess.weebly.com",
+        "webserver_tech": "cloudflare",
+        "technologies": [
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "Re-captcha",
+                "proof": "Detected Google reCAPTCHA scripts or elements."
+            }
+        ]
+    },
+    {
+        "url": "unitedveterinaryservice.com",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/8.0.30",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "construccionesyatecnicas.com",
+        "webserver_tech": "nginx",
+        "technologies": [
+            {
+                "tech": "PleskLin",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "joburgheritage.org.za",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "jQuery",
+                "proof": "Found jQuery library inclusion."
+            },
+            {
+                "tech": "Google Analytics",
+                "proof": "Detected Google Analytics tracking codes."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "bfnelson.it",
+        "webserver_tech": "LiteSpeed",
+        "technologies": [
+            {
+                "tech": "PHP/8.4.23",
+                "proof": "Detected 'X-Powered-By' header."
+            },
+            {
+                "tech": "WordPress",
+                "proof": "Detected 'WordPress' in the content."
+            },
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    },
+    {
+        "url": "rivithead.com",
+        "webserver_tech": "Apache",
+        "technologies": [
+            {
+                "tech": "PHP",
+                "proof": "Detected PHP session cookies or .php file references."
+            }
+        ]
+    }
+]
